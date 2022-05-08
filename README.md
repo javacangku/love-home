@@ -1,6 +1,8 @@
 # love-home
 基于 SSM 爱家房屋租赁管理系统 
 
+这里是 猿码仓库，公众号关注【猿码仓库】。🍅关注公众号【猿码仓库】  简历模板、学习资料、面试题库等都给你💪
+
 
 `文末获取源码`
 
@@ -365,3 +367,8 @@ SET FOREIGN_KEY_CHECKS=1;
 ## 这里
 
 [猿码仓库](https://mp.weixin.qq.com/s/xJgaC-NudRu0v3wM1yPIwg)
+
+
+
+
+![image](https://tva3.sinaimg.cn/large/007F3CC8ly1h20u91pgl4j31bi0hcafx.jpg)
